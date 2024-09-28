@@ -5,8 +5,10 @@ using namespace std;
 class Add
 {
 
-public:
+private:
     int a, b;
+
+public:
     Add(int x, int y)
     {
         a = x;
@@ -16,6 +18,7 @@ public:
 };
 int main()
 {
+    cout<<"Abhishek Singh (2315272)\n";
     cout << "Abhishek Singh (2315272)\n";
     Add obj(10, 20);
     cout << obj.add();

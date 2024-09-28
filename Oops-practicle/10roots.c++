@@ -13,7 +13,7 @@ int main() {
 
     discriminant = b * b - 4 * a * c;
 
-    // Check if the discriminant is positive, zero, or negative
+    
     if (discriminant > 0) {
         // Two real and distinct roots
         root1 = (-b + sqrt(discriminant)) / (2 * a);
