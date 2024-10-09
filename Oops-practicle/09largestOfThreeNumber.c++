@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+
     int a, b, c;
     cout << "Enter three numbers: ";
     cin >> a >> b >> c;

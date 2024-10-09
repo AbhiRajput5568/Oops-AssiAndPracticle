@@ -22,6 +22,7 @@ int main()
 {
     cout << "Abhishek Singh (2315272)\n"
          << endl;
+
     MyClass obj(10);
     obj.display();
 

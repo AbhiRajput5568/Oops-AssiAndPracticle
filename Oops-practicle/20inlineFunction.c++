@@ -10,6 +10,7 @@ inline int square(int x)
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+
     int num = 5;
 
     // Call the inline function

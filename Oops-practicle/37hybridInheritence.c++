@@ -56,6 +56,8 @@ public:
 
 int main()
 {
+    cout << "Abhishek Singh (2315272)\n";
+
     // Create an object of Salary (derived class)
     Salary emp;
 

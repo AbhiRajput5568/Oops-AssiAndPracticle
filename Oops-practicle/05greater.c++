@@ -1,18 +1,19 @@
-// Program to find greater of two numbers.
 #include <iostream>
 using namespace std;
-int a = 5, result = 1;
-int fact(int a)
-{
-    for (int i = a; i > 0; i--)
-    {
-        result = result * i;
+
+// Function to find the greater of two numbers
+void large(int a, int b) {
+    if (a > b) {
+        cout << "Number 1st is greater: " << a;
     }
-    return result;
+    else {
+        cout << "Number 2nd is greater: " << b;
+    }
 }
-int main()
-{
+
+int main() {
     cout << "Abhishek Singh (2315272)\n";
-    cin >> a;
-    cout << fact(a);
+
+    large(10, 5);
+    return 0;
 }

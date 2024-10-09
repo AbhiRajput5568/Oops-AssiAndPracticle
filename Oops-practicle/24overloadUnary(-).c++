@@ -21,6 +21,7 @@ public:
 
 int main() {
     cout << "Abhishek Singh (2315272)\n";
+
     Point p1(5, -7);  
 
     cout << "Original point: ";

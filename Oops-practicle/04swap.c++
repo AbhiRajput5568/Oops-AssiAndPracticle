@@ -5,6 +5,7 @@ int a = 10, b = 20, c;
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+
     cout << "Before Swaping No:";
     cout << endl
          << a << b;

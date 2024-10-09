@@ -62,6 +62,7 @@ public:
 int main()
 {
     cout << "Abhishek Singh (2315272)" << endl;
+
     // Create an object of Result (derived class)
     Result student1;
 

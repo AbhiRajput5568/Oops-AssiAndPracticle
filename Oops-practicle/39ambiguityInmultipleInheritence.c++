@@ -34,6 +34,7 @@ public:
 int main()
 {
     cout << "Abhishk Singh (2315272)";
+
     Derived obj;
 
     // Resolve the ambiguity

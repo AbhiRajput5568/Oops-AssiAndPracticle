@@ -24,6 +24,7 @@ public:
 int main()
 {
     cout << "Abhishek Singh (2315272)" << endl;
+
     Child obj;
 
     obj.display(); // Calls Child's display() by default

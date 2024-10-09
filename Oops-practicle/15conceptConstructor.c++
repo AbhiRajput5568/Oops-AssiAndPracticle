@@ -38,8 +38,8 @@ public:
 
 int main()
 {
-    cout << "Abhishek Singh (2315272)\n"
-         << endl;
+    cout << "Abhishek Singh (2315272)" << endl;
+
     MyClass obj1;
     obj1.display();
 

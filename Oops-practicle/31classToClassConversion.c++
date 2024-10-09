@@ -35,6 +35,7 @@ public:
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+
     ClassB objB(100);
     objB.displayB();
 

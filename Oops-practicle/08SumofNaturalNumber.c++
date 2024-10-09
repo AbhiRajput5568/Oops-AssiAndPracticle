@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+
     int n, sum = 0;
     cout << "Enter a number: ";
     cin >> n;

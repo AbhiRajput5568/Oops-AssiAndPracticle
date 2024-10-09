@@ -24,6 +24,7 @@ public:
 
 int main() {
     cout<<"Abhishek Singh (2315272)\n";
+
     MyClass obj(10);  
     obj.display();   
 
