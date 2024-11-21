@@ -20,7 +20,9 @@ public:
 
 int main()
 {
-    cout<<"Abhishek Singh (2315272)";
+    // cout<<"Abhishek Singh (2315272)";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     int x = 10;
 

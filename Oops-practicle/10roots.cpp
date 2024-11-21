@@ -5,7 +5,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Abhishek Singh (2315272)\n";
+    // cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
 
     float a, b, c, discriminant, root1, root2;

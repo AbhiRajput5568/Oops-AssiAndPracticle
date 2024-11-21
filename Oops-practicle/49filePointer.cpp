@@ -6,6 +6,8 @@ using namespace std;
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     // Open a file in write mode and write some data
     ofstream outFile("example.txt");
     outFile << "Hello, world!";

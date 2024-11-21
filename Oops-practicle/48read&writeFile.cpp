@@ -5,7 +5,10 @@ using namespace std;
 
 int main()
 {
+ 
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     // Writing to a file
     ofstream outFile("example.txt"); // Create and open a file for writing
     if (outFile.is_open())

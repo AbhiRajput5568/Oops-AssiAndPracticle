@@ -19,7 +19,9 @@ public:
 };
 
 int main() {
-    cout << "Abhishek Singh (2315272)\n";
+    // cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     Complex c1(3, 2); 
     Complex c2(1, 7);  

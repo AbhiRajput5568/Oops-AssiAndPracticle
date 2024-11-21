@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     int arr[] = {10, 20, 30, 40, 50};
     int *ptr = arr; // Pointer pointing to the first element of the array
 

@@ -31,7 +31,9 @@ class WorkingStudent : public Student, public Employee
 
 int main()
 {
-    cout << "Abhishek Singh (2315272)";
+    // cout << "Abhishek Singh (2315272)";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     WorkingStudent ws;
 

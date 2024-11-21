@@ -33,7 +33,9 @@ public:
 
 int main()
 {
-    cout<<"Abhishek Singh (2315272)\n";
+    // cout<<"Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
 
     // Create an object of the derived class (Puppy)

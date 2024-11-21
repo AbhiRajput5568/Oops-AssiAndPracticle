@@ -12,7 +12,9 @@ void large(int a, int b) {
 }
 
 int main() {
-    cout << "Abhishek Singh (2315272)\n";
+    // cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     large(10, 5);
     return 0;

@@ -20,7 +20,9 @@ public:
 };
 
 int main() {
-    cout << "Abhishek Singh (2315272)" << endl;
+    // cout << "Abhishek Singh (2315272)" << endl;
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     Point p1(3, 4); 
     Point p2(1, 2);  

@@ -23,6 +23,8 @@ void Division(int a, int b)
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     try
     {
         Division(10, 0); // This will cause an exception

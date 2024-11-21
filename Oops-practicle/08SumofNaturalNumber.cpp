@@ -3,7 +3,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Abhishek Singh (2315272)\n";
+    // cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     int n, sum = 0;
     cout << "Enter a number: ";

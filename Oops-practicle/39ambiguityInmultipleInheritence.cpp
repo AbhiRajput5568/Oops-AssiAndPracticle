@@ -33,7 +33,9 @@ public:
 
 int main()
 {
-    cout << "Abhishk Singh (2315272)";
+    // cout << "Abhishk Singh (2315272)";
+    // cout << "Aayush Thakur (2315271)\n";
+
 
     Derived obj;
 

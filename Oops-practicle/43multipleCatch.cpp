@@ -40,6 +40,8 @@ void testException(int code)
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     testException(1); // Triggers integer exception
     testException(2); // Triggers string exception
     testException(3); // Triggers double exception

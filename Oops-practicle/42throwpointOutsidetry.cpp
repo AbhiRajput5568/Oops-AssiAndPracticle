@@ -15,6 +15,8 @@ void divide(int a, int b)
 int main()
 {
     cout << "Abhishek Singh (2315272)\n";
+    // cout << "Aayush Thakur (2315271)\n";
+
     try
     {
         divide(10, 2); // Normal division
